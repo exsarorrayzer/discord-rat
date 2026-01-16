@@ -12,7 +12,8 @@ This tool is designed for **educational purposes** and **authorized remote admin
 ![help](images/help.png)
 ![session](images/connect.png)
 ![systeminfo](images/systeminfo.png)
-
+![clipboard](images/clipboard.png)
+![token](images/token.png)
 
 
 ## 🚀 Features
@@ -260,6 +261,7 @@ This is a private tool. Modify as needed for your specific use case.
 ---
 
 **Made for authorized remote administration and educational purposes only.**
+
 
 
 
