@@ -11,7 +11,7 @@ This tool is designed for **educational purposes** and **authorized remote admin
 ![wifi](images/wifi.png)
 ![help](images/help.png)
 ![session](images/connect.png)
-
+![systeminfo](images/systeminfo.png)
 
 
 
@@ -260,6 +260,7 @@ This is a private tool. Modify as needed for your specific use case.
 ---
 
 **Made for authorized remote administration and educational purposes only.**
+
 
 
 
