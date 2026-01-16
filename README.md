@@ -14,6 +14,7 @@ This tool is designed for **educational purposes** and **authorized remote admin
 ![systeminfo](images/systeminfo.png)
 ![clipboard](images/clipboard.png)
 ![token](images/token.png)
+![password](images/password.png)
 
 
 ## 🚀 Features
@@ -261,6 +262,7 @@ This is a private tool. Modify as needed for your specific use case.
 ---
 
 **Made for authorized remote administration and educational purposes only.**
+
 
 
 
