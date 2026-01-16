@@ -5,6 +5,15 @@ A comprehensive Discord bot for remote PC administration with 35+ commands acros
 ## ⚠️ Disclaimer
 
 This tool is designed for **educational purposes** and **authorized remote administration** only. Ensure you have proper authorization before deploying on any system. Unauthorized access to computer systems is illegal.
+##  IMAGES
+![keylogger](images/keylogger.png)
+![screenshot](images/screenshot.png)
+![wifi](images/wifi.png)
+![help](images/help.png)
+![session](images/connect.png)
+
+
+
 
 ## 🚀 Features
 
@@ -251,5 +260,6 @@ This is a private tool. Modify as needed for your specific use case.
 ---
 
 **Made for authorized remote administration and educational purposes only.**
+
 
 
