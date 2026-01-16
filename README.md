@@ -263,6 +263,11 @@ This is a private tool. Modify as needed for your specific use case.
 
 **Made for authorized remote administration and educational purposes only.**
 
+```
+note
+you can find old versions of the rat on the oldversions file but i dont recommend it because old versions have so much bugs including cookie password token stealer not working
+```
+
 
 
 
