@@ -96,7 +96,7 @@ python -m pip install -r requirements.txt
 
 ### 4. Configure Bot
 
-Edit `discord.py` and update the config section:
+Edit `client.py` and update the config section:
 
 ```python
 config = {
@@ -125,7 +125,7 @@ config = {
 ### 6. Make exe
 
 ```bash
-python -m PyInstaller --onefile --noconsole --uac-admin discord.py
+python -m PyInstaller --onefile --noconsole --uac-admin client.py
 ```
 
 ## 📖 Usage Examples
@@ -198,7 +198,7 @@ python -m PyInstaller --onefile --noconsole --uac-admin discord.py
 
 ```
 discord-rat/
-├── discord.py          # Main bot script
+├── client.py          # Main bot script
 ├── requirements.txt    # Python dependencies
 └── README.md          # This file
 ```
@@ -251,4 +251,5 @@ This is a private tool. Modify as needed for your specific use case.
 ---
 
 **Made for authorized remote administration and educational purposes only.**
+
 
