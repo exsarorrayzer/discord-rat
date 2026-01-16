@@ -1,0 +1,9 @@
+discord.py
+requests
+psutil
+Pillow
+pynput
+pywin32
+pycryptodome
+comtypes
+pycaw
